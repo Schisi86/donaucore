@@ -19,13 +19,12 @@ description, screenshots, system requirements and download ([English](https://do
 
 ## Download
 
-Dieses Repository enthält ausschließlich die Installationsdateien der **aktuellen Version**.
-This repository only holds the installation files of the **current version**.
+Dieses Repository enthält ausschließlich den Installer der **aktuellen Version**.
+This repository only holds the installer of the **current version**.
 
 | Datei · File | |
 |---|---|
 | [DonauCore-Setup-x64.exe](https://github.com/Schisi86/donaucore/releases/latest/download/DonauCore-Setup-x64.exe) | Installer für Windows 11 (64 Bit) · installer for Windows 11 (64-bit) |
-| [DonauCore-win-x64-portable.zip](https://github.com/Schisi86/donaucore/releases/latest/download/DonauCore-win-x64-portable.zip) | Portable Version ohne Installation · portable version, no installation |
 | [SHA256SUMS.txt](https://github.com/Schisi86/donaucore/releases/latest/download/SHA256SUMS.txt) | Prüfsummen · checksums |
 
 Installierte Versionen aktualisieren sich über **Über DonauCore → Nach Updates suchen**. Die
